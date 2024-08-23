@@ -1,0 +1,9 @@
+export { initMaprpg  } from "./buz/maprpg.buzz";
+export { updateMaprpg  } from "./buz/maprpg.buzz";
+export { writeMaprpg  } from "./buz/maprpg.buzz";
+export { readMaprpg  } from "./buz/maprpg.buzz";
+export { removeMaprpg  } from "./buz/maprpg.buzz";
+export { deleteMaprpg  } from "./buz/maprpg.buzz";
+export { createMaprpg  } from "./buz/maprpg.buzz";
+export { loadMaprpg  } from "./buz/maprpg.buzz";
+export { originMaprpg  } from "./buz/maprpg.buzz";

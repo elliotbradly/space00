@@ -1,0 +1,20 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.loadMaprpg = exports.createMaprpg = exports.deleteMaprpg = exports.removeMaprpg = exports.readMaprpg = exports.writeMaprpg = exports.updateMaprpg = exports.initMaprpg = void 0;
+var maprpg_buzz_1 = require("./buz/maprpg.buzz");
+Object.defineProperty(exports, "initMaprpg", { enumerable: true, get: function () { return maprpg_buzz_1.initMaprpg; } });
+var maprpg_buzz_2 = require("./buz/maprpg.buzz");
+Object.defineProperty(exports, "updateMaprpg", { enumerable: true, get: function () { return maprpg_buzz_2.updateMaprpg; } });
+var maprpg_buzz_3 = require("./buz/maprpg.buzz");
+Object.defineProperty(exports, "writeMaprpg", { enumerable: true, get: function () { return maprpg_buzz_3.writeMaprpg; } });
+var maprpg_buzz_4 = require("./buz/maprpg.buzz");
+Object.defineProperty(exports, "readMaprpg", { enumerable: true, get: function () { return maprpg_buzz_4.readMaprpg; } });
+var maprpg_buzz_5 = require("./buz/maprpg.buzz");
+Object.defineProperty(exports, "removeMaprpg", { enumerable: true, get: function () { return maprpg_buzz_5.removeMaprpg; } });
+var maprpg_buzz_6 = require("./buz/maprpg.buzz");
+Object.defineProperty(exports, "deleteMaprpg", { enumerable: true, get: function () { return maprpg_buzz_6.deleteMaprpg; } });
+var maprpg_buzz_7 = require("./buz/maprpg.buzz");
+Object.defineProperty(exports, "createMaprpg", { enumerable: true, get: function () { return maprpg_buzz_7.createMaprpg; } });
+var maprpg_buzz_8 = require("./buz/maprpg.buzz");
+Object.defineProperty(exports, "loadMaprpg", { enumerable: true, get: function () { return maprpg_buzz_8.loadMaprpg; } });
+//# sourceMappingURL=maprpg.buzzer.js.map
